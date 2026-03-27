@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(npm install:*)",
-      "Bash(venv/Scripts/python -c \"from app import create_app; app = create_app\\(\\); print\\(''OK''\\)\")"
-    ]
-  }
-}
